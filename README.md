@@ -1,4 +1,4 @@
-# Exploring the impact of the number of tournaments and crossover probability on the fitness of Full Microbial Genetic Algorithms.
+# Exploring the impact of the number of tournaments and crossover probability on the fitness of Full Microbial Genetic Algorithms
 
 We investigate the change in performance of a Full Microbial Genetic Algorithm (FMGA) with variations in the number of tournaments and crossover rate.
 
